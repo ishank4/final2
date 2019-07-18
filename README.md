@@ -1,5 +1,21 @@
-# <a href="https://FurkanToprak.github.io">Visit the website here!</a>
+# [sindresorhus.com](https://sindresorhus.com)
+
+> Personal website of Sindre Sorhus
+
+*The website targets the latest version of Chrome, Safari, and Firefox.*
+
+<a href="https://sindresorhus.com">
+	<img src="screenshot.jpg" width="600">
+</a>
 
 
-> A website advertising Furkan Toprak's ~~subpar~~ amazing web development skills. <br>
-> **I have not produced any of index.js; taken from https://codepen.io/MarcoGuglielmelli/pen/lLCxy**
+## Dev
+
+```
+$ ./start.sh
+```
+
+
+## License
+
+MIT © [Sindre Sorhus](https://sindresorhus.com)
